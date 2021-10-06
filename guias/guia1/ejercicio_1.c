@@ -9,9 +9,9 @@ nos podemos fijar en cómo lo podemos arreglar al programa.*/
 
 #include <stdio.h>
 
-/*#define CAMBIO_DOLAR_PESO
-#define CAMBIO_DOLAR_REAL
-#define CAMBIO_DOLAR_EURO
+/*#define CAMBIO_DOLAR_PESO 186
+#define CAMBIO_DOLAR_REAL 18,39
+#define CAMBIO_DOLAR_EURO 220
 #define CAMBIO_PESO_DOLAR
 #define CAMBIO_PESO_REAL
 #define CAMBIO_PESO_EURO
